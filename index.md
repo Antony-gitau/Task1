@@ -1,7 +1,7 @@
 ## Task 4: KamiLimu
 
 ---
-Git
+`Git`
 ---
 it is software for tracking changes in any set of files.
 
@@ -11,7 +11,7 @@ Its offers :
 - support for distributed, non-linear workflows with capacity for thousands of parallel branches running on different systems.
 
 ---
-Github
+`Github`
 ---
 it is a provider of Internet hosting service. 
 it is mostly used for software development and version control using Git. 
@@ -23,6 +23,6 @@ It offers :
 - open source project support
 
 ---
-Introduction of MATLAB programming
+`Introduction of MATLAB programming`
 ---
 
