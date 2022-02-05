@@ -25,4 +25,5 @@ It offers :
 ---
 `Introduction of MATLAB programming`
 ---
-
+ It's a programming platform designed specifically for engineers and scientists to analyze and design systems and products.
+ 
